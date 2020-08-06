@@ -124,7 +124,7 @@ STATIC_URL = '/static/'
 STATIC_ROOT = "/var/www/blumbuy.pythonanywhere.com/static/"
 
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'static')
+    "/Users/USER/selling/mysite/static"
     
 ]
 
